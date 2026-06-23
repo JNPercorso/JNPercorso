@@ -2,7 +2,7 @@
   <img src="assets/og-banner.jpg" alt="Andrey Nesterenko — JNPercorso" width="100%" />
 </div>
 
-<h1 align="center">Andrey Nesterenko (Андрей Нестеренко)</h1>
+<h1 align="center">Andrey Nesterenko</h1>
 <p align="center"><b>JNPercorso</b> — Digital Product Developer</p>
 
 <p align="center">
