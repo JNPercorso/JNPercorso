@@ -15,9 +15,7 @@
   I turn ideas into digital products — mobile apps for iOS &amp; Android, websites &amp; landings, automation &amp; AI agents. From concept to release.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAADC,100:0D1117&height=80&section=header" width="100%"/>
-</p>
+---
 
 ### 🚀 What I do
 
@@ -29,10 +27,20 @@
 ### 🛠️ Tools & stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,javascript,html,css,git,github,python" alt="stack icons" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
-
-<p align="center">Claude (Agent SDK / Claude Code) — for automation & AI agents</p>
 
 ### 📊 GitHub stats
 
@@ -43,10 +51,10 @@
 
 ### 📫 Contact
 
-- Telegram: [@JNPercorso](https://t.me/JNPercorso)
-- WhatsApp: [+995 555 930 577](https://wa.me/995555930577)
-- Email: [jnpercorso@gmail.com](mailto:jnpercorso@gmail.com)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAADC&height=80&section=footer" width="100%"/>
+  <a href="https://t.me/JNPercorso"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/995555930577"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:jnpercorso@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.threads.com/@jnpercorso"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://x.com/jnpercorso"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
