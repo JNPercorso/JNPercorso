@@ -15,6 +15,10 @@
   I turn ideas into digital products — mobile apps for iOS &amp; Android, websites &amp; landings, automation &amp; AI agents. From concept to release.
 </p>
 
+<p align="center">
+  <a href="https://jnpercorso-card.online/"><img src="https://img.shields.io/badge/Visit my card-2EAADC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 🚀 What I do
