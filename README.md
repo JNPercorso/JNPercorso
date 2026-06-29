@@ -62,4 +62,5 @@
   <a href="https://www.linkedin.com/in/jnpercorso/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.threads.com/@jnpercorso"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
   <a href="https://x.com/jnpercorso"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://tenchat.ru/jnpercorso"><img src="https://img.shields.io/badge/TenChat-0099F7?style=for-the-badge&logoColor=white" /></a>
 </p>
